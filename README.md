@@ -7,7 +7,7 @@ Install terlebih dahulu:
 
 ## ▶️ Cara Menjalankan  
 Jalankan dengan:  
-`python hand_segmenter.py`  
+`MediapipeKeypoint.py`  
 Tekan `q` untuk keluar dari tampilan.
 
 ## 📂 Output  
